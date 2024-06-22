@@ -24,4 +24,4 @@ At this point following services would be up and running:
 
 ### Architecture
 
-![Architecture](https://drive.google.com/file/d/1RGGDk3e9VjEGW34vHfmmNgz9EjrSCYyy/view?usp=sharing)
+![Architecture](./static/diagram.png)
