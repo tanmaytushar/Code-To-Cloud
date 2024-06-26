@@ -1,4 +1,4 @@
-# Vercel Clone
+# Code-To-Cloud
 
 ### Setup Guide
 
